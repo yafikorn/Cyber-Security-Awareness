@@ -46,4 +46,4 @@ Understanding social engineering is critical because it targets human vulnerabil
 
 - [Social Engineering – Wikipedia](https://en.wikipedia.org/wiki/Social_engineering_(security))
 - [CISA.gov – Social Engineering Guide](https://www.cisa.gov/news-events/news/what-social-engineering)
-- [Twitter 2020 Hack Analysis](https://cyberpress.org/massive-twitter-data-breach/)
+- [X (Twitter) Data Leaked](https://cyberpress.org/massive-twitter-data-breach/)
