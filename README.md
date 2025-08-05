@@ -1,4 +1,4 @@
-# Cyber-Security-Awareness
+# Cyber Security Awareness
 
 ## 🔍 Definition
 
