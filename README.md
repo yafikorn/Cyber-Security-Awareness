@@ -22,7 +22,7 @@
 
 ## 🧪 Real-World Example
 
-In 2020, Twitter experienced a massive breach due to social engineering. Attackers called Twitter employees, pretending to be from IT, and tricked them into revealing internal tools access — resulting in takeovers of high-profile accounts.
+In 2025, X (Twitter) User Massive 400GB Records Allegedly Leaked – 2.8 Billion Records Exposed Online.
 
 ---
 
@@ -46,4 +46,4 @@ Understanding social engineering is critical because it targets human vulnerabil
 
 - [Social Engineering – Wikipedia](https://en.wikipedia.org/wiki/Social_engineering_(security))
 - [CISA.gov – Social Engineering Guide](https://www.cisa.gov/news-events/news/what-social-engineering)
-- [Twitter 2020 Hack Analysis](https://www.nytimes.com/2020/07/17/technology/twitter-hack-investigation.html)
+- [Twitter 2020 Hack Analysis](https://cyberpress.org/massive-twitter-data-breach/)
